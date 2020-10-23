@@ -1,4 +1,4 @@
-# twitch_clone
+#Twitch_clone_Redesign
 
 Star⭐ the repo if you like what you see😉.
 
